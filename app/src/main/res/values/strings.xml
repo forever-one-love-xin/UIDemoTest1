@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UIDemoTest1</string>
+    <string name="write">习作</string>
+    <string name="diary">日记</string>
+    <string name="create">创建</string>
+    <string name="join">参与</string>
+    <string name="hint_search">请输入搜索内容</string>
+    <string name="title_content">读写平台</string>
+    <string name="news_content_test">国际金融中心之间表现出竞争与合作的关系。\n由于国际金融中心可以为所在国家和地区的经济发展带来巨大利益，国际金融中高高耸立的上海环球金融中心高高耸立的上海环球金融中心心之间的竞争历来有之。历史上伦敦和纽约为了竞争主导全球的金融中心地位曾有“凯恩斯计划”和“怀特计划”之争，最后美国凭借强大的经济实力是“怀特计划”最终胜出，美元成为战后全球金融体系的主导货币，纽约也取代伦敦成为国际金融中心的领头羊。\n当然国际金融中心之间并不完全表现为竞争关系，共同的利益导向也会诱发相互合作的需要。由于各个金融中心的禀赋能力有限，在业务内容上可能各有侧重，辐射区域也有所差别，基于业务分工和区域分工的优势互补能够产生外部经济性，在合作过程中提高各自的竞争力。例如在欧洲内部，尽管欧盟内部各个金融中心的竞争日趋激烈，但是各国并未就此忽视合作的重要性，而是通过协调金融税收制度、组建泛欧金融市场、开展金融业务交流等途径，加强相互间多层次的紧密合作，在各自发展的基础上形成了互有分工、相互合作和有序竞争的基本格局。</string>
+    <string name="news_tit_test">关于世界金融降级的大发展及其中国改革的看法</string>
+    <string name="news_class_text">所属标签</string>
+    <string name="slip">|</string>
+    <string name="comment_content_text">这个视频很有趣,我看了很快就知道什么是集合了，这个视频很有趣</string>
+    <string name="user_name_text">刘佳权</string>
+    <string name="no_speak_text">来回帖人数 11</string>
+    <string name="ok_speak_text">以回帖人数 12</string>
+    <string name="check_text">点击查看</string>
+    <drawable name="color1">#fff</drawable>
+    <drawable name="color2">#f3f3f3</drawable>
+</resources>

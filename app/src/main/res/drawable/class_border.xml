@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- css liunx 等标签边框 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 实心 -->
+    <solid android:color="#fff" />
+    <!-- 边框 -->
+    <stroke
+        android:width="1dp"
+        android:color="#73dee9" />
+    <!-- 边距 -->
+    <padding
+        android:bottom="5dp"
+        android:left="5dp"
+        android:right="5dp"
+        android:top="5dp"/>
+    <corners android:topLeftRadius="40dp"
+        android:topRightRadius="40dp"
+        android:bottomRightRadius="40dp"
+        android:bottomLeftRadius="40dp"/>
+</shape>
